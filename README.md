@@ -1,2 +1,2 @@
 # emews
-Functions and scripts used for analysing seal diving data
+This repository contains the functions and scripts used for analysing seal diving data.
