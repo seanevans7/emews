@@ -8,4 +8,4 @@ There are two script for fitting the model to data. One is for female Weddell se
 
 The dataset used in the analysis is available at the following URL <http://doi.org/10.5281/zenodo.3820359>
 
-Please contact me <theoni.photopoulou@gmail.com> with any questions.
+Please contact me at <theoni.photopoulou@gmail.com> with any questions.
